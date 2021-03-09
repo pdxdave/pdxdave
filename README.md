@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdxdave&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdxdave&layout=compact)](https://github.com/pdxdave/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pdxdave)](https://github.com/pdxdave/github-readme-stats)
+[![pdxdave's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pdxdave)](https://github.com/pdxdave/github-readme-stats)
 
 <!--
 **pdxdave/pdxdave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
