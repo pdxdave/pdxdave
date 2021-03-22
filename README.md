@@ -13,10 +13,10 @@ Skills: / REACT / Python/ JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdxdave)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pdxdave&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pdxdave)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pdxdave&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/pdxdave)  
+
+
 
 
