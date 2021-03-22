@@ -1,6 +1,8 @@
-### Hi there 👋, David Martinson
-#### Web and Application Developer
+
 ![Web and Application Developer](https://github.com/pdxdave/pdxdave/blob/main/github_banner.jpg)
+
+### Hi there 👋, I'm David Martinson
+### Web and Application Developer
 
 I'm a web/application developer living in the Pacific Northwest.  My interests are working with React and Python to provide businesses with creative solutions.
 
