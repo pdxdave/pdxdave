@@ -24,7 +24,7 @@ I'm a web/application developer living in the Pacific Northwest.  My interests a
 ![GitHub metrics](https://metrics.lecoq.io/pdxdave)  
 
 ### Examples
-<img src="https://gifs.com/gif/willow-creek-mOL0WO" width="250">
+
 
 
 
