@@ -13,7 +13,7 @@ I'm a web/application developer living in the Pacific Northwest.  My interests a
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pdxdave)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dave-martinson-pdx/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pdxdave)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dave-martinson-pdx/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdxdave)](https://github.com/anuraghazra/github-readme-stats)
 
