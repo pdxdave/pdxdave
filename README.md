@@ -2,7 +2,7 @@
 #### Web and Application Developer
 ![Web and Application Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm a web/application developer living in the Pacific Northwest.  My interests are working with React and Python to provide business with creative solutions.
+I'm a web/application developer living in the Pacific Northwest.  My interests are working with React and Python to provide businesses with creative solutions.
 
 Skills: / REACT / Python/ JS / HTML / CSS
 
