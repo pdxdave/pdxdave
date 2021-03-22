@@ -8,7 +8,7 @@ I'm a web/application developer living in the Pacific Northwest.  My interests a
 
 ### Skills:
 ⚛️  REACT    
-:snake  Python    
+🐍  Python    
 💻  JS / HTML / CSS
 
 
