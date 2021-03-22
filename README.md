@@ -6,7 +6,8 @@
 
 I'm a web/application developer living in the Pacific Northwest.  My interests are working with React and Python to provide businesses with creative solutions.
 
-Skills: /  REACT / Python/ JS / HTML / CSS
+Skills: /  ⚛️ REACT / Python/ JS / HTML / CSS
+
 
 - 🔭 I’m currently working on this page. 
 
