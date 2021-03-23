@@ -26,12 +26,6 @@ I am a Front End/Back End Web Developer living in the Pacific Northwest.  My int
     <img src="https://github.com/pdxdave/pdxdave/blob/main/paws_for_dogs.gif" width="350" />
 </div>
 
-<a href="https://github-readme-stats.pdxdave.vercel.app/api?username=pdxdave&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.pdxdave.vercel.app/api?username=pdxdave&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.pdxdave.vercel.app/api/top-langs/?username=pdxdave&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.pdxdave.vercel.app/api/top-langs/?username=pdxdave&layout=compact&theme=radical" />
-</a>
-
 
 
 
