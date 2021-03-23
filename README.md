@@ -22,7 +22,7 @@ I'm a web/application developer living in the Pacific Northwest.  My interests a
 
 
 ### Examples
-<div>
+<div style="display: flex">
   <div>
     <h3>Dog Adoption</h3>
       <img src="https://github.com/pdxdave/pdxdave/blob/main/willow_creek.gif" width="350"/>
