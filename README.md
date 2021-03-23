@@ -23,10 +23,8 @@ I'm a web/application developer living in the Pacific Northwest.  My interests a
 
 ### Examples
 <div>
-    <figure>
-        <img src="https://github.com/pdxdave/pdxdave/blob/main/paws_for_dogs.gif" width="350">
-        <figcaption>Dog Store</figcaption>
-    </figure>
+    <img src="https://github.com/pdxdave/pdxdave/blob/main/willow_creek.gif" width="350"/>
+    <img src="https://github.com/pdxdave/pdxdave/blob/main/paws_for_dogs.gif" width="350" />
 </div>
 
 
