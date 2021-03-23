@@ -9,7 +9,7 @@ I am a web/application developer living in the Pacific Northwest.  My interests 
 ### Currently exploring Front/Back-end web development opportunities
 ## Skills:
 
-### ReactJs / NodeJs / Express / Python / JavaScript / RESTFul API / MySQL / KnexJs / Jest / Gatsby / HTML / CSS 
+### ReactJs / NodeJs / Express / Python / JavaScript / RESTFul API / Headless CMS / MySQL / KnexJs / Jest / Gatsby / HTML / CSS 
 
 
 
