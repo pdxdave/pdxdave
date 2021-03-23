@@ -2,11 +2,11 @@
 ![Web and Application Developer](https://github.com/pdxdave/pdxdave/blob/main/github_banner.jpg)
 
 # David Martinson
-##  Web and Application Developer
+##  Front End/Back End Web Developer
 
-I am a web/application developer living in the Pacific Northwest.  My interests are working with React and Python to provide businesses with creative solutions.  Open to connect with other developers and collaborate on projects.  Drop me an invite on LinkedIn and let's talk.
+I am a Front End/Back End Web Developer living in the Pacific Northwest.  My interests are working with React and Python to provide businesses with creative solutions.  Open to connect with other developers and collaborate on projects.  Drop me an invite on LinkedIn and let's talk.
 
-### Currently exploring Front/Back-end web development opportunities
+### Currently exploring Front End/Back End Web Development opportunities
 ## Skills:
 
 ### ReactJs / NodeJs / Express / Python / JavaScript / RESTFul API / Headless CMS / MySQL / KnexJs / Jest / Gatsby / HTML / CSS 
