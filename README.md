@@ -19,7 +19,6 @@ I'm a web/application developer living in the Pacific Northwest.  My interests a
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pdxdave&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/pdxdave)
 
 
 ### Examples
