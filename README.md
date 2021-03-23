@@ -6,6 +6,7 @@
 
 I am a web/application developer living in the Pacific Northwest.  My interests are working with React and Python to provide businesses with creative solutions.  Open to connect with other developers and collaborate on projects.  Drop me an invite on LinkedIn and let's talk.
 
+### Currently exploring Front/Back-end web development oppotunities
 ## Skills:
 
 ### ReactJs / NodeJs / Express / Python / JavaScript / RESTFul API / MySQL / KnexJs / Jest / Gatsby / HTML / CSS 
