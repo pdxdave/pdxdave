@@ -4,7 +4,7 @@
 # David Martinson
 ##  Web and Application Developer
 
-I'm a web/application developer living in the Pacific Northwest.  My interests are working with React and Python to provide businesses with creative solutions.
+I'm a web/application developer living in the Pacific Northwest.  My interests are working with React and Python to provide businesses with creative solutions.  Always eager to connect with other developers and collaborate on projects.  
 
 ### Skills:
 ⚛️  REACT    
