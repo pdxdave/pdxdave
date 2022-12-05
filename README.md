@@ -23,7 +23,7 @@ I am a Front End/Back End Web Developer living in the Pacific Northwest.  My int
 
 ### Examples
 <div>
-    <img src="https://github.com/pdxdave/pdxdave/blob/main/willow_creek.gif" width="350"/>
+    <img src="https://github.com/pdxdave/pdxdave/blob/main/11music5.gif" width="350"/>
     <img src="https://github.com/pdxdave/pdxdave/blob/main/paws_for_dogs.gif" width="350" />
 </div>
 
