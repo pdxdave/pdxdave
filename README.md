@@ -23,8 +23,8 @@ I am a Front End/Back End Web Developer.  My interests are working with React an
 
 ### Examples
 <div>
-    <img src="https://github.com/pdxdave/pdxdave/blob/main/11music5.gif" width="450"/>
-    <img src="https://github.com/pdxdave/pdxdave/blob/main/realestate2.gif" width="450" />
+    <img src="https://github.com/pdxdave/pdxdave/blob/main/11music5.gif" width="500"/>
+    <img src="https://github.com/pdxdave/pdxdave/blob/main/realestate2.gif" width="500" />
 </div>
 
 
