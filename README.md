@@ -18,7 +18,7 @@ I am a Front End/Back End Web Developer.  My interests are working with React an
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdxdave)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pdxdave&show_icons=true&count_private=true)  
+
 
 
 ### Examples
